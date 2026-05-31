@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-https://tooebb-aliaslab.streamlit.app （Streamlit Community Cloud 部署）
+https://aliaslab.streamlit.app
 
 ## 功能简介
 
